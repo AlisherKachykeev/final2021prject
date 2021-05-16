@@ -9,7 +9,7 @@ Here is only home page, because on login page there is only email and password f
 ![figma](screen-shots/figma.png)
 
 
-## Team.
+## Team
 * Alisher Kachykeev com19
 * Zhanbolot bakytbek uulu com19
   

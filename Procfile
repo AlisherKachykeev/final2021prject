@@ -1,0 +1,1 @@
+web: java -jar $JAVA_OPTS -Dserver.port=$PORT target/finalProject-0.0.1-SNAPSHOT.jar

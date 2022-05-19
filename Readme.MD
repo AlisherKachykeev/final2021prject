@@ -1,5 +1,9 @@
 # Project description.
 * This simple Spring Boot Project is Admin management for admins to perform operations on users.
+
+## Team
+* Alisher Kachykeev com19
+
 ![home](screen-shots/home.png)
 ## Heroku link
 * https://final2021project.herokuapp.com/
@@ -9,9 +13,6 @@ Here is only home page, because on login page there is only email and password f
 ![figma](screen-shots/figma.png)
 
 
-## Team
-* Alisher Kachykeev com19
-* Zhanbolot bakytbek uulu com19
   
 ## What we used
 * H2 database
